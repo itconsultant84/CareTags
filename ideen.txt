@@ -1,0 +1,19 @@
+###Frontend
+
+Pflegestelle? -> automatische careid?
+Notification an wen? -> Userid?
+Was ist zu pflegen? -> contentid?
+in welchem rhythmus? -> zeitschemaid?
+
+
+
+
+###
+
+Seite/Projekt?
+Pflegestelle?
+Kontext zu pflegestellen?
+Pflegerhythmus
+Users?
+
+MEHRSPRACHIGKEIT!
